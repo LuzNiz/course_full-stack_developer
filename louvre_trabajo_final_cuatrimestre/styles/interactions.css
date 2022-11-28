@@ -1,0 +1,10 @@
+ a:hover {
+    color: #d8afbc;
+    cursor: pointer;
+
+}
+
+button:hover {
+    background-color: #4e3239;
+    cursor: pointer;
+}
